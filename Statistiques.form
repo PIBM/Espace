@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.0" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[640, 40]"/>
+    </Property>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[640, 40]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+  </SyntheticProperties>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGridLayout">
+    <Property name="rows" type="int" value="2"/>
+    <Property name="columns" type="int" value="0"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="aLabelJoueur">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Joueur : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelNbPlanete">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nb Planetes : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelNbFlotte">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nb Flottes : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelNbVaisseaux">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nb Vaisseaux : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelAttaque">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Attaque : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelDefense">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Defense : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelProduction">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Production : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aLabelDeplacement">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Deplacement : "/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
